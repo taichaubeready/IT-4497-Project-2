@@ -1,0 +1,1 @@
+php artisan serve --host=tai.chau.local --port=8000
